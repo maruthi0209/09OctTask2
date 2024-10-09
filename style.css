@@ -1,0 +1,44 @@
+* {
+    font-family: Karma, serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    font-size: 26px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.myFood, .mail {
+    margin-left: 600px;
+}
+.icon {
+    margin-left: 30px;
+}
+
+main {
+    margin: 10px 100px 80px;
+}
+section {
+    display: inline-block;
+    width: 300px;
+    margin: 20px 10px;
+    vertical-align: top;
+}
+img {
+    width: 100%;
+}
+div {
+    padding: 10px;
+}
+h3 {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 10px 0px;
+}
+p {
+    font-size: 16px;
+    text-align: justify;
+    text-align-last: center;
+}
