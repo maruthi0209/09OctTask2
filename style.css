@@ -15,6 +15,12 @@ header {
 }
 .icon {
     margin-left: 30px;
+    padding-top: 10px;
+    transition: all 0.6s;
+}
+
+header>.icon:hover {
+    background-color: grey;
 }
 
 main {
@@ -42,3 +48,4 @@ p {
     text-align: justify;
     text-align-last: center;
 }
+
